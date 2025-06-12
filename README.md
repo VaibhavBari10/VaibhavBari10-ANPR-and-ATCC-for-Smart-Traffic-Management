@@ -77,8 +77,5 @@ python add_missing_data.py
 python visualize.py
 ```
 
-## 📄 License
-[LICENSE]
+[Internship completion letter.pdf](https://github.com/user-attachments/files/20702599/Internship.completion.letter.pdf)
 
-## 📞 Contact
-[Add your contact information here]
